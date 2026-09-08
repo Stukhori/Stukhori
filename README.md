@@ -1,30 +1,64 @@
-# Nurali Gabdushev
+<p align="center">
+  <img src="assets/profile-header.svg" alt="Minimal wind-energy and artificial-intelligence illustration" width="100%">
+</p>
 
-Student researcher and developer interested in artificial intelligence, computer vision, scientific computing, optimization, and AI for engineering systems. I build reproducible technical projects that connect modeling and evaluation with usable software.
+<h1 align="center">Nurali Gabdushev</h1>
+
+<p align="center">
+  Student researcher and developer interested in AI for engineering systems, with a particular focus on computer vision, scientific computing, optimization, and renewable energy. I build reproducible technical projects that connect rigorous modeling and evaluation with practical software.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_for_Engineering-173B57?style=flat-square" alt="AI for Engineering">
+  <img src="https://img.shields.io/badge/Computer_Vision-1F6685?style=flat-square" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/Renewable_Energy-287F82?style=flat-square" alt="Renewable Energy">
+  <img src="https://img.shields.io/badge/Scientific_Computing-355C7D?style=flat-square" alt="Scientific Computing">
+</p>
 
 ## Selected Projects
 
-### BladeScope
+### ◉ BladeScope
 
-Computer-vision research on robust wind-turbine blade defect recognition under limited training data and controlled image degradation. The study uses 720 retained full images and 1,065 annotated defect instances across six classes, comparing HOG/LBP baselines with ResNet-18 and MobileNetV3-Small, alongside data-efficiency, robustness, Grad-CAM, blinded review, and YOLO11n localization experiments. The two CNNs achieved clean macro-F1 means near `0.895`; the paired interval does not support claiming superiority or equivalence between them.
+Computer-vision research on wind-turbine blade defect recognition under limited data and controlled image degradation.
 
-[Repository](https://github.com/Stukhori/Bade-defect-recognition) · [Live Demo](https://bladescope.streamlit.app/)
+- 720 retained full images and 1,065 annotated defect instances across six classes
+- HOG/LBP baselines, ResNet-18, MobileNetV3-Small, and YOLO11n localization
+- Data-efficiency, robustness, Grad-CAM, blinded-review, and multi-seed evaluation
+- Clean CNN macro-F1 means near `0.895`; the paired interval supports neither superiority nor equivalence
 
-### SteppeGrid
+**[Repository](https://github.com/Stukhori/BadeScope) · [Live Demo](https://bladescope.streamlit.app/)**
 
-An interactive Streamlit platform for renewable-microgrid planning across seven rural Kazakhstan settlements. It combines hourly weather and electricity-demand modeling with wind and solar generation, battery dispatch, reliability-constrained optimization, and planning economics. The repository includes frozen scenarios, verification commands, technical documentation, and a configurable planner for registered or custom sites.
+### ⚡ SteppeGrid
 
-[Repository](https://github.com/Stukhori/SteppeGrid)
+An interactive renewable-microgrid planning platform for rural Kazakhstan.
 
-### ModelMind
+- Hourly weather and electricity-demand modeling
+- Wind and solar generation with battery dispatch
+- Reliability-constrained optimization and planning economics
+- Streamlit planner for registered and configurable sites
 
-A Flask application for natural-language analysis of Excel workbooks. It uses pandas and openpyxl to inspect individual or multiple worksheets, identify trends and data issues, compare shared columns across sheets, and provide workbook-grounded responses through Google's Gemini API.
+**[Repository](https://github.com/Stukhori/SteppeGrid)**
 
-[Repository](https://github.com/Stukhori/HUVTSP-Modelmind)
+### ▦ ModelMind
+
+A Flask application for natural-language analysis of Excel workbooks.
+
+- Workbook-grounded analysis with pandas and openpyxl
+- Single- and multi-sheet inspection and comparison
+- Trend, data-quality, and shared-column analysis
+- Natural-language responses through the Gemini API
+
+**[Repository](https://github.com/Stukhori/HUVTSP-Modelmind)**
+
+## Current Focus
+
+- Robust computer vision for renewable-energy infrastructure
+- Renewable microgrid modeling and optimization
+- Reproducible AI systems for engineering applications
 
 ## Engineering Approach
 
-Across these projects, I focus on traceable assumptions, explicit data and model boundaries, and results that can be checked against code or machine-readable artifacts. My research work uses validation-only model selection, source-aware data splitting, controlled experiments, multi-seed evaluation, and documented limitations. My application work connects those analytical components to interfaces for exploring results, testing scenarios, or asking questions without presenting demonstrations as evidence of production readiness.
+I emphasize reproducibility, traceable assumptions, controlled evaluation, and results that can be checked against code or machine-readable artifacts. I keep model and data boundaries explicit, use source-aware splits and multi-seed evaluation where appropriate, and document limitations alongside results.
 
 ## Technical Interests
 
@@ -32,4 +66,13 @@ Machine Learning · Computer Vision · Scientific Computing · Optimization · D
 
 ## Tools
 
-Python · PyTorch · scikit-learn · NumPy · pandas · Streamlit · Flask · Git
+<p>
+  <img src="https://img.shields.io/badge/Python-173B57?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-173B57?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/scikit--learn-1F6685?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/NumPy-1F6685?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/pandas-287F82?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/Streamlit-287F82?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Flask-355C7D?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Git-355C7D?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>

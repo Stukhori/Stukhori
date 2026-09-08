@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-labelledby="title description">
+  <title id="title">AI, renewable energy, and engineering</title>
+  <desc id="description">A restrained technical banner with wind turbines, data lines, and connected nodes.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1f33"/><stop offset="1" stop-color="#123b57"/>
+    </linearGradient>
+    <linearGradient id="horizon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#43a6b4" stop-opacity="0"/><stop offset="0.5" stop-color="#43a6b4" stop-opacity="0.85"/><stop offset="1" stop-color="#43a6b4" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#background)"/>
+  <g stroke="#7fb8c9" stroke-width="1" opacity="0.14">
+    <path d="M0 52H1200M0 104H1200M0 156H1200M0 208H1200"/>
+    <path d="M120 0V260M240 0V260M360 0V260M480 0V260M600 0V260M720 0V260M840 0V260M960 0V260M1080 0V260"/>
+  </g>
+  <path d="M55 211C220 185 349 222 507 197S816 181 1145 211" fill="none" stroke="url(#horizon)" stroke-width="3"/>
+  <g fill="none" stroke="#8fd2d7" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="translate(190 142)"><circle r="8" fill="#8fd2d7" stroke="none"/><path d="M0 8V78M-38 78H38" stroke-width="4"/><path d="M-5-5L-64-35Q-73-38-67-28L-11 7M7-4L62-43Q70-49 66-38L10 8M-1 9L-10 76" stroke-width="5"/></g>
+    <g transform="translate(345 158) scale(.72)"><circle r="8" fill="#8fd2d7" stroke="none"/><path d="M0 8V78M-38 78H38" stroke-width="4"/><path d="M-5-5L-64-35Q-73-38-67-28L-11 7M7-4L62-43Q70-49 66-38L10 8M-1 9L-10 76" stroke-width="5"/></g>
+  </g>
+  <g fill="none" stroke="#59a8c2" stroke-width="2" opacity="0.9"><path d="M520 77L615 45L704 91L790 54L887 100L994 61"/><path d="M520 157L607 120L705 150L800 112L895 151L994 126" opacity="0.48"/></g>
+  <g fill="#8fd2d7"><circle cx="520" cy="77" r="5"/><circle cx="615" cy="45" r="5"/><circle cx="704" cy="91" r="5"/><circle cx="790" cy="54" r="5"/><circle cx="887" cy="100" r="5"/><circle cx="994" cy="61" r="5"/></g>
+  <g fill="#59a8c2" opacity="0.72"><circle cx="520" cy="157" r="4"/><circle cx="607" cy="120" r="4"/><circle cx="705" cy="150" r="4"/><circle cx="800" cy="112" r="4"/><circle cx="895" cy="151" r="4"/><circle cx="994" cy="126" r="4"/></g>
+  <text x="755" y="213" text-anchor="middle" fill="#d8edf2" font-family="Segoe UI, Arial, sans-serif" font-size="17" letter-spacing="4">AI · ENERGY · ENGINEERING</text>
+</svg>
