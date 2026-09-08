@@ -1,4 +1,4 @@
-# Nurali Kassymgabdushev
+# Nurali Gabdushev
 
 Student researcher and developer interested in artificial intelligence, computer vision, scientific computing, optimization, and AI for engineering systems. I build reproducible technical projects that connect modeling and evaluation with usable software.
 
