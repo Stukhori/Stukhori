@@ -10,7 +10,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI_for_Engineering-173B57?style=flat-square" alt="AI for Engineering">
-  <img src="https://img.shields.io/badge/Computer_Vision-1F6685?style=flat-square" alt="Computer Vision">
   <img src="https://img.shields.io/badge/Renewable_Energy-287F82?style=flat-square" alt="Renewable Energy">
   <img src="https://img.shields.io/badge/Scientific_Computing-355C7D?style=flat-square" alt="Scientific Computing">
 </p>
@@ -63,16 +62,3 @@ I emphasize reproducibility, traceable assumptions, controlled evaluation, and r
 ## Technical Interests
 
 Machine Learning · Computer Vision · Scientific Computing · Optimization · Data Analysis · AI for Engineering Systems
-
-## Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Python-173B57?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PyTorch-173B57?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/scikit--learn-1F6685?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/NumPy-1F6685?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/pandas-287F82?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
-  <img src="https://img.shields.io/badge/Streamlit-287F82?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
-  <img src="https://img.shields.io/badge/Flask-355C7D?style=flat-square&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/Git-355C7D?style=flat-square&logo=git&logoColor=white" alt="Git">
-</p>
