@@ -36,7 +36,7 @@ An interactive renewable-microgrid planning platform for rural Kazakhstan.
 - Reliability-constrained optimization and planning economics
 - Streamlit planner for registered and configurable sites
 
-**[Repository](https://github.com/Stukhori/SteppeGrid)**
+**[Repository](https://github.com/Stukhori/SteppeGrid) · [Live Demo](https://steppegrid.streamlit.app/)**
 
 ### ▦ ModelMind
 
